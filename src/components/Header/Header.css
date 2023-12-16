@@ -1,0 +1,27 @@
+/* Header.css */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .logo {
+    width: 35px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .search-box {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .search-icon,
+  .profile-icon {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
